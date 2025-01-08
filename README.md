@@ -31,7 +31,7 @@
    Gak tau belum nyoba
 
 
-### Installation
+### Cara Installnya
 1. **Clone repo**:
    ```bash
    git clone https://github.com/zevtyardt/auto-interact
@@ -45,7 +45,7 @@
    pip install -r requirements.txt
    ```
 
-## Setup
+## Cara Setting nya
 > Step 1: Facebook Session
 
 - **Pertama**: Install extension chrome ini. [Copy Cookies](https://chromewebstore.google.com/detail/copy-cookies/jcbpglbplpblnagieibnemmkiamekcdg) 🍪.
