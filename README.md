@@ -73,7 +73,7 @@
 
 ## Jalanin Botnya
 ```bash
-python sama-ereksi-bun.py <n>
+python salam-ereksi-bun.py <n>
 ```
 - **n**: Jumlah postingan yang bakal dikomentari, 1-..
 
