@@ -1,0 +1,4 @@
+requests==2.32.3
+pillow==11.0.0
+poe-api-wrapper==1.7.0
+langdetect==1.0.9
